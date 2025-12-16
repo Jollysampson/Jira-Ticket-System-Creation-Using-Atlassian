@@ -127,3 +127,85 @@ Team Type: Customer Service
 ---
 Click Create, and your Jira ticket system will be ready for use.
 ---
+
+---
+
+
+# LASTLY
+
+---
+
+
+<h2>Ticketing Workflow</h2>
+
+- To Do → In Progress → Waiting on User → Escalated → Resolved → Closed
+
+<p align="center">
+
+<img width="600" height="404" alt="image" src="https://github.com/user-attachments/assets/ffccefea-6ee3-4ad1-84ed-4902c817d76f" />
+</p>
+
+---
+
+<h2>Sample Tickets</h2>
+
+Examples of issues created in this project:  
+
+| Issue Description | Category | Priority | Status |
+|-------------------|----------|----------|--------|
+
+| Unable to connect to Wi-Fi | Network | Medium | Resolved |
+
+| Printer not responding | Hardware | High | Escalated |
+
+| Outlook application crashing | Software | Low | Closed |
+
+| Slow system performance | System | Medium | In Progress |
+
+These tickets reflect common issues handled by IT Help Desk teams daily.
+
+
+
+
+
+<p align="center">
+<img width="1287" height="875" alt="image" src="https://github.com/user-attachments/assets/15d580e3-55e8-4884-879a-7f750f97205d" />
+</p>
+
+---
+
+
+<h2>Ticket Lifecycle Demonstration</h2>
+
+<p align="center">
+<img width="894" height="352" alt="image" src="https://github.com/user-attachments/assets/4efebf5f-b405-450f-a160-b49b956f1797" />
+</p>
+
+1. A user submits a support request
+2. The ticket is reviewed and prioritized
+3. A support technician begins troubleshooting
+4. If unresolved, the ticket is escalated or waits for user response
+5. Once fixed, the ticket is marked as resolved and closed
+
+This demonstrates a full ticket handling process from start to finish.
+
+---
+
+<h2>Project Files</h2>
+
+- `screenshots/` – Screenshots of Jira board, workflow, and tickets  
+- `workflow_diagram.png` – Visual workflow of IT support process  
+- `sample_tickets.csv` – Example exported ticket data (ID, issue, priority, status, resolution)  
+
+---
+
+<h2>Key Takeaways</h2>
+-IT Help Desk Operations  
+- Jira Ticket Management  
+- Workflow & Process Design  
+- Issue Prioritization  
+- Escalation Handling  
+- Technical Documentation  
+
+
+
