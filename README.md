@@ -32,14 +32,14 @@ This project is ideal for IT Support, Help Desk Entry-level portfolios.
 
 Atlassian Jira (Cloud)
 --
-**jire service management**
+**jira service management**
 **Custom Ticket Workflow** --
 ---
 **Mock IT Support Tickets** 
 
 ---
 
-# Step 1:Access Atlassian
+# Step 1: Access Atlassian
 ---
 **Open your web browser.**
 --
@@ -55,23 +55,23 @@ Atlassian Jira (Cloud)
 <img width="1366" height="578" alt="Image" src="https://github.com/user-attachments/assets/fa18567a-262e-4eca-8cb2-350cdf5f7ce5" />
 ---
 
-# BEFORE WE PROCEED, LET UNDERSTAND WHAT ITSM IS AND WHAT IT DOES
+# BEFORE WE PROCEED, LET'S UNDERSTAND WHAT ITSM IS AND WHAT IT DOES
 
 **What is ITSM?**
 
 *ITSM (IT Service Management) refers to the end-to-end management of IT services. It covers how IT teams:*
 ---
-Set goals
+- Set goals
 ---
-Plan services
+- Plan services
 ---
-Deliver services
+- Deliver services
 ---
-Provide support
+- Provide support
 ---
-Resolve issues
----
-Manage critical IT processes and actions
+- Resolve issues
+
+- Manage critical IT processes and actions
 ---
 
 # What is Jira Service Management?
@@ -80,11 +80,11 @@ Manage critical IT processes and actions
 
 *It goes beyond traditional IT service management and supports multiple service areas, including:*
 ---
-IT Operations
+- IT Operations
 ---
-HR Operations
+- HR Operations
 ---
-Customer Service
+- Customer Service
 ---
 And more
 ---
@@ -108,13 +108,13 @@ Basic IT Service Management
 ---
 Reasons:
 ---
-Free
+- Free
 ---
-Designed specifically for IT tasks
+- Designed specifically for IT tasks
 ---
-Handles tickets, incidents, and user requests
+- Handles tickets, incidents, and user requests
 ---
-Easy to start and learn
+- Easy to start and learn
 ---
 
 
