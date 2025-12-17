@@ -86,8 +86,6 @@ Atlassian Jira (Cloud)
 ---
 - Customer Service
 ---
-And more
----
 
 
 ---
